@@ -4,3 +4,6 @@ If you compile FontForge directly from the source code of GitHub, the compiled o
 
 https://twitter.com/listeningwing
 
+![Screenshot](TrueType-Hinting-Instructions-Debugging.mp4)
+
+
